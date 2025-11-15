@@ -2,6 +2,10 @@
 Interactively query your PostgreSQL database while taking notes with this notebook template.
 
 
+https://github.com/user-attachments/assets/f40ce7b3-c4c9-4fe5-9905-099865fc8e6d
+
+
+
 ## 📋 Required Technologies
 - **IDE**: VSCode
 - **Database**: Postgres
