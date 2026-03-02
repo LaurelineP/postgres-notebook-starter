@@ -1,6 +1,7 @@
 # Jupyter Notebook Boilerplate for PostgreSQL
-Interactively query your PostgreSQL database while taking notes with this notebook template.
-
+Interactively query your PostgreSQL database while taking notes with this notebook template/boilerplate.
+Motivation: Experienced pain while debugging databases and having the need to document it.
+Tracing notes and queries ran against DB - ideal for discussing around an issue with pairs or reporting / documenting it.
 
 https://github.com/user-attachments/assets/f40ce7b3-c4c9-4fe5-9905-099865fc8e6d
 
